@@ -1,0 +1,384 @@
+13:39:44.084 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:94)oggger - Test Failed: verify_LoginDDT
+13:39:44.101 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:95)oggger - Screenshot info: [Driver is null - screenshot skipped]
+13:41:12.496 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml"
+13:41:13.113 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml
+
+13:44:36.384 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml"
+13:44:36.941 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml
+
+13:50:15.660 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:15.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:15.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+13:55:19.210 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\grid-docker.xml"
+13:55:19.776 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\NopCommerce4.80\grid-docker.xml
+
+14:00:47.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:00:47.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:00:47.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+15:45:29.015 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\grid-docker.xml"
+15:45:29.926 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\NopCommerce4.80\grid-docker.xml
+
+15:51:19.197 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:51:19.203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:51:19.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:37:35.216 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml"
+17:46:38.032 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:46:38.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:46:38.121 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:49:24.633 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml"
+17:49:32.869 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:17)oggger - Starting TC001_AccountRegistrationTest
+17:49:33.428 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register link
+17:49:33.462 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:26)oggger - Providing customer details
+17:49:34.785 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:35)oggger - Validating expected message
+17:49:34.977 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:52)oggger - Finished test case
+17:49:38.440 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - ***** TC002_LoginTest: Login Test Started *****
+17:49:38.940 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on Login link
+17:49:39.314 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:27)oggger - Entered email and password
+17:49:40.288 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:30)oggger - Clicked Login button
+17:49:40.450 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Current URL: https://localhost:60209/
+17:49:40.464 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:37)oggger - Page Title: Your store. Home page title
+17:49:40.464 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:40)oggger - Login Test Passed: My Account page found
+17:49:40.465 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:56)oggger - ***** TC002_LoginTest: Login Test Finished *****
+17:49:43.941 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:49:43.949 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:49:44.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:49:45.151 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:16)oggger - **** Starting TC003_LoginDDT with data - Email: ummekulsoom2018@gmail.com, Password: automation, Expected: Valid
+17:49:45.675 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:22)oggger - Clicked on Login link
+17:49:45.675 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:25)oggger - Entering credentials
+17:49:46.274 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:29)oggger - Submitted login form
+17:49:46.722 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:36)oggger - Login successful for valid credentials
+17:49:47.142 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:60)oggger - **** Finished TC003_LoginDDT ****
+17:49:47.147 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:16)oggger - **** Starting TC003_LoginDDT with data - Email: user2@example.com, Password: wrongpass, Expected: Invalid
+17:49:47.508 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:22)oggger - Clicked on Login link
+17:49:47.509 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:25)oggger - Entering credentials
+17:49:47.959 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:29)oggger - Submitted login form
+17:49:48.127 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:46)oggger - Login succeeded with invalid credentials
+17:49:58.161 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:56)oggger - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.19.1.jar:?]
+	at jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.MyAccountPage.clickLogout(MyAccountPage.java:35) ~[test-classes/:?]
+	at testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:47) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:49:58.188 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:94)oggger - Test Failed: verify_LoginDDT
+17:49:58.189 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:95)oggger - Screenshot info: [Driver is null - screenshot skipped]
+17:49:58.201 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:16)oggger - **** Starting TC003_LoginDDT with data - Email: wronguser@example.com, Password: pass123, Expected: Invalid
+17:49:58.623 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:22)oggger - Clicked on Login link
+17:49:58.624 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:25)oggger - Entering credentials
+17:49:58.996 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:29)oggger - Submitted login form
+17:49:59.394 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:46)oggger - Login succeeded with invalid credentials
+17:50:09.469 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:56)oggger - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.19.1.jar:?]
+	at jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.MyAccountPage.clickLogout(MyAccountPage.java:35) ~[test-classes/:?]
+	at testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:47) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:50:09.473 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:94)oggger - Test Failed: verify_LoginDDT
+17:50:09.473 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:95)oggger - Screenshot info: [Driver is null - screenshot skipped]
+17:50:09.483 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:16)oggger - **** Starting TC003_LoginDDT with data - Email: , Password: pass123, Expected: Invalid
+17:50:09.778 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:22)oggger - Clicked on Login link
+17:50:09.780 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:25)oggger - Entering credentials
+17:50:10.074 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:29)oggger - Submitted login form
+17:50:10.118 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:46)oggger - Login succeeded with invalid credentials
+17:50:20.164 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:56)oggger - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.19.1.jar:?]
+	at jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.MyAccountPage.clickLogout(MyAccountPage.java:35) ~[test-classes/:?]
+	at testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:47) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:50:20.170 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:94)oggger - Test Failed: verify_LoginDDT
+17:50:20.171 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:95)oggger - Screenshot info: [Driver is null - screenshot skipped]
+17:50:20.176 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:16)oggger - **** Starting TC003_LoginDDT with data - Email: user3@example.com, Password: , Expected: Invalid
+17:50:20.455 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:22)oggger - Clicked on Login link
+17:50:20.457 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:25)oggger - Entering credentials
+17:50:20.763 [main] INFO  testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:29)oggger - Submitted login form
+17:50:20.988 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:46)oggger - Login succeeded with invalid credentials
+17:50:31.045 [main] ERROR testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:56)oggger - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Log out']"}
+  (Session info: chrome=137.0.7151.55)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe6a5a1c996346d358f7afd0f373e49, findElement {value=//a[normalize-space()='Log out'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52647}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52647/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbe6a5a1c996346d358f7afd0f373e49
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.19.1.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.19.1.jar:?]
+	at jdk.proxy2.$Proxy27.click(Unknown Source) ~[?:?]
+	at pageObjects.MyAccountPage.clickLogout(MyAccountPage.java:35) ~[test-classes/:?]
+	at testCases.TC003_LoginDDT.verify_LoginDDT(TC003_LoginDDT.java:47) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:50:31.047 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:94)oggger - Test Failed: verify_LoginDDT
+17:50:31.047 [main] ERROR Utilities.ExtentReportManager.onTestFailure(ExtentReportManager.java:95)oggger - Screenshot info: [Driver is null - screenshot skipped]
+17:52:31.644 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml"
+17:52:36.748 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:17)oggger - Starting TC001_AccountRegistrationTest
+17:52:37.165 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register link
+17:52:37.189 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:26)oggger - Providing customer details
+17:52:38.297 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:35)oggger - Validating expected message
+17:52:38.468 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:52)oggger - Finished test case
+17:52:41.668 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - ***** TC002_LoginTest: Login Test Started *****
+17:52:42.093 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on Login link
+17:52:42.438 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:27)oggger - Entered email and password
+17:52:43.231 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:30)oggger - Clicked Login button
+17:52:43.394 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Current URL: https://localhost:60209/
+17:52:43.408 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:37)oggger - Page Title: Your store. Home page title
+17:52:43.409 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:40)oggger - Login Test Passed: My Account page found
+17:52:43.409 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:56)oggger - ***** TC002_LoginTest: Login Test Finished *****
+11:28:35.841 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml"
+11:28:43.341 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:17)oggger - Starting TC001_AccountRegistrationTest
+11:28:43.778 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register link
+11:28:43.802 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:26)oggger - Providing customer details
+11:28:45.013 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:35)oggger - Validating expected message
+11:28:45.077 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:52)oggger - Finished test case
+11:28:48.186 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - ***** TC002_LoginTest: Login Test Started *****
+11:28:48.772 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on Login link
+11:28:49.064 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:27)oggger - Entered email and password
+11:28:49.855 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:30)oggger - Clicked Login button
+11:28:49.984 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Current URL: https://localhost:60209/
+11:28:49.994 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:37)oggger - Page Title: Your store. Home page title
+11:28:49.994 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:40)oggger - Login Test Passed: My Account page found
+11:28:49.994 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:56)oggger - ***** TC002_LoginTest: Login Test Finished *****
+11:50:05.455 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\hp\eclipse-workspace\NopCommerce4.80\master.xml"
+11:50:10.491 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:17)oggger - Starting TC001_AccountRegistrationTest
+11:50:10.908 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:22)oggger - Clicked on Register link
+11:50:10.928 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:26)oggger - Providing customer details
+11:50:12.166 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:35)oggger - Validating expected message
+11:50:12.232 [main] INFO  testCases.TC001_AccountRegistrationTest.verifyAccountRegistration(TC001_AccountRegistrationTest.java:52)oggger - Finished test case

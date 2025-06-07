@@ -1,0 +1,8 @@
+11:50:15.257 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - ***** TC002_LoginTest: Login Test Started *****
+11:50:16.141 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:22)oggger - Clicked on Login link
+11:50:16.481 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:27)oggger - Entered email and password
+11:50:17.101 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:30)oggger - Clicked Login button
+11:50:17.257 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:36)oggger - Current URL: https://localhost:60209/
+11:50:17.269 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:37)oggger - Page Title: Your store. Home page title
+11:50:17.269 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:40)oggger - Login Test Passed: My Account page found
+11:50:17.270 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:56)oggger - ***** TC002_LoginTest: Login Test Finished *****
